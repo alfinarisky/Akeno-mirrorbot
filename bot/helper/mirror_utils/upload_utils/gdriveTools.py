@@ -553,7 +553,7 @@ class GoogleDriveHelper:
                 self.path.append(Telegraph(access_token=telegraph_token).create_page(
                                                         title = 'Akeno Mirror Bot Search',
                                                         author_name='Akeno Mirror Bot',
-                                                        author_url='https://github.com/Satriouz/Akeno-Mirror-Bot',
+                                                        author_url='https://github.com/Satriouz/Akeno-mirrorbot',
                                                         html_content=content
                                                         )['path'])
 
