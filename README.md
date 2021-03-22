@@ -1,4 +1,4 @@
-[![Slam](https://telegra.ph/file/5a63f0002646a731203bf.png)](https:/t.me/ParrotOmoshiroi)
+[![Akeno](https://telegra.ph/file/5a63f0002646a731203bf.png)](https:/t.me/ParrotOmoshiroi)
 
 # Akeno Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -12,7 +12,7 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 - Use the download button to download your credentials.
 - Clone this repo:
 ```
-git clone https://github.com/breakdowns/slam-mirrorbot mirrorbot/
+git clone https://github.com/Satriouz/akeno-mirrorbot mirrorbot/
 cd mirrorbot
 ```
 - Move that file to the root of mirrorbot, and rename it to credentials.json
