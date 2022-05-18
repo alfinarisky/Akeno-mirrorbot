@@ -47,7 +47,6 @@ def start(update, context):
 Hi, I'm [Akeno](https://github.com/Satriouz/Akeno-mirrorbot), a multipurpose bot for [Satriouz](t.me/xSatriouz)
 Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
-    update.effective_message.reply_photo("https://telegra.ph/file/5a63f0002646a731203bf.png", start_string, parse_mode=ParseMode.MARKDOWN)
 
 
 @run_async
